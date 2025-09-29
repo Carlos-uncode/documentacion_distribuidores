@@ -1,1 +1,1 @@
-Repositorio con los archivos del prototipo solicitado creado con el software Pencil e informe sobre la creación del prototipo.
+Repositorio con los archivos del prototipo solicitado creado con el software Pencil Proyect e informe con los paso a paso de la creación del prototipo no funcional, además se agrega el Modelo de Negocio Canvas.
